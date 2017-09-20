@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  background-image: url("https://media.tenor.com/images/69c81892b2145112eee25cfbc352daac/tenor.gif");
+  background-size: contain;
+}
+  h1 {
+    color: pink;
+}
